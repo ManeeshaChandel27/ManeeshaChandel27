@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maneesha</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working in **RAZORPAY as Product Development Engineer 2**
+- 🔭 I’m currently working as **Software Development Engineer**
 
 - 🌱 I’m currently learning **Design Patterns and System-Design**
 
