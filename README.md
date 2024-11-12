@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ManeeshaChandel27)
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/maneesha-chandel-12b868148/)
+- 💬 💬 Ask me about System Design, DSA, Coding, 🎶 Music, 🌺🌿 Fragrance, and more!
 
-- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1AqanIqEED9S3GqLNnn7KJj_34WP-vDnv/view?usp=sharing)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/maneesha-chandel-12b868148/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
